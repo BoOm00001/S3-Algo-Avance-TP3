@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp" />
+    <ClCompile Include="Color.cpp">
+      <Filter>MastermindFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Combination.cpp">
+      <Filter>MastermindFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="CombinationTree.cpp">
+      <Filter>MastermindFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="CombinationTreeNode.cpp">
+      <Filter>MastermindFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Mastermind.cpp">
+      <Filter>MastermindFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="SimpleRandom.cpp">
+      <Filter>MastermindFiles</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h" />
+    <ClInclude Include="targetver.h" />
+    <ClInclude Include="LinkedList.h">
+      <Filter>DataStructureFiles</Filter>
+    </ClInclude>
+    <ClInclude Include="DataStructure.h">
+      <Filter>DataStructureFiles</Filter>
+    </ClInclude>
+    <ClInclude Include="Node.h">
+      <Filter>DataStructureFiles</Filter>
+    </ClInclude>
+    <ClInclude Include="Color.h">
+      <Filter>MastermindFiles</Filter>
+    </ClInclude>
+    <ClInclude Include="Combination.h">
+      <Filter>MastermindFiles</Filter>
+    </ClInclude>
+    <ClInclude Include="CombinationTree.h">
+      <Filter>MastermindFiles</Filter>
+    </ClInclude>
+    <ClInclude Include="CombinationTreeNode.h">
+      <Filter>MastermindFiles</Filter>
+    </ClInclude>
+    <ClInclude Include="Mastermind.h">
+      <Filter>MastermindFiles</Filter>
+    </ClInclude>
+    <ClInclude Include="LibProfTP3.h">
+      <Filter>ProfFiles</Filter>
+    </ClInclude>
+    <ClInclude Include="IRandom.h">
+      <Filter>MastermindFiles</Filter>
+    </ClInclude>
+    <ClInclude Include="SimpleRandom.h">
+      <Filter>MastermindFiles</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="DataStructureFiles">
+      <UniqueIdentifier>{92b5fb6f-9d14-469d-a917-3d7c0307ddc4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MastermindFiles">
+      <UniqueIdentifier>{1bc3668f-44e2-4837-b026-7084505cecd4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ProfFiles">
+      <UniqueIdentifier>{f5c06cbd-e867-42c9-ac42-7b8201755138}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
